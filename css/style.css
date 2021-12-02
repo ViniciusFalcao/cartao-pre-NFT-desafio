@@ -1,1 +1,31 @@
-body{color: #0d1a2d;}
+body{background-color: #0d1a2d;font-size: 15px;font-family: 'Outfit', sans-serif;}
+div#div_principal{
+    background-color: #15273f;
+    height: 480px;
+    width: 270px;
+    margin: auto;
+    border-radius: 15px;
+    padding: 18px;
+    margin-top: 60px;
+    
+    
+}
+img#imagem_equi{
+    height: 100%;
+    width: 100%;    
+    border-radius: 10px;
+    
+    
+}
+div#div_img{
+    margin: auto;
+    text-align: center;
+}
+p#p1{color: white;}
+p#p2{color: #93a7ca;}
+p#p3{color: #93a7ca;}
+
+div#eth{color: #34ffff;}
+
+div#divre{display: inline;float: right;color:#8eaed7 ;}
+img#imagem_avatar{width: 30px;height: 30px;}
