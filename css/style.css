@@ -48,7 +48,7 @@ img#olho{position: relative;top: 50%;transform: translateY(-50%);}
 #iden:hover{color:#34ffff ;}
 #iden2{color: white;text-decoration: none;}
 #iden2:hover{color:#34ffff ;}
-#ativar:hover#apareça
+#div_img:hover #apareça{display: block;}
 
 
 
