@@ -20,6 +20,7 @@ img#imagem_equi{
 div#div_img{
     margin: auto;
     text-align: center;
+    position: relative;
 }
 p#p1{color: white;}
 p#p2{color: #93a7ca;}
@@ -30,15 +31,27 @@ div#eth{color: #34ffff;}
 div#divre{display: inline;float: right;color:#8eaed7 ;}
 img#imagem_avatar{width: 30px;height: 30px;}
 div#apareça{
-    background-color: turquoise;
-    width: 265px;
-    height: 262px;
+    background-color: #0092a1;
+    width: 100%;
+    height:99%;
     text-align: center;
     border-radius: 10px;
+    opacity: 0.8;
+    display:none;
+    position: absolute;
+    top: 0;
+    right: 0;
     
 }
 img#olho{position: relative;top: 50%;transform: translateY(-50%);}
-#apareça{display: none;}
-#div_img:hover+#apareça{display: block;}
+#iden{color: white;text-decoration: none;}
+#iden:hover{color:#34ffff ;}
+#iden2{color: white;text-decoration: none;}
+#iden2:hover{color:#34ffff ;}
+#ativar:hover#apareça
+
+
+
+
 
 
